@@ -528,10 +528,6 @@ Nếu đề có các từ:
 → **Đang hỏi S – Situation**
 
 ---
-Được. Ta **đi tiếp đúng nhịp** trong **UNIT 4 – SOSTAC**, sang **bước O – Objectives**.
-Phần này **rất hay ra tự luận** và **ăn điểm rõ**, vì nó nối trực tiếp giữa *phân tích* và *KPI*.
-
----
 
 # UNIT 4 (tiếp) — **O: OBJECTIVES**
 
@@ -702,5 +698,255 @@ Không cần số liệu ở đây.
 * Ý của anh: **đúng**
 * Cách viết: cần **chuyển từ “nhãn” → “mục tiêu diễn đạt”**
 * Sau khi chỉnh: **hoàn toàn ổn để đi thi**
+
+---
+
+# UNIT 4 (tiếp) — **S: STRATEGY (PHẦN 1 – STDP)**
+
+> Mục tiêu của phần này:
+> **Biết chọn đúng khách hàng → định vị đúng → không bị “chiến lược chung chung”**
+
+---
+
+## 4.13. STRATEGY LÀ GÌ? (định nghĩa ngắn – chuẩn thi)
+
+**Strategy** trả lời câu hỏi:
+
+> “Ta sẽ tiếp cận thị trường như thế nào để đạt được Objectives?”
+
+👉 Strategy **không phải**:
+
+* Chạy ads gì
+* Làm content gì
+* Dùng kênh nào cụ thể
+
+👉 Strategy là **định hướng lựa chọn**, trước khi làm chi tiết.
+
+---
+
+## 4.14. STDP LÀ GÌ?
+
+**STDP** là khung tư duy chiến lược thị trường gồm 4 bước:
+
+```
+S – Segmentation (Phân khúc)
+T – Targeting (Chọn phân khúc mục tiêu)
+D – Differentiation (Khác biệt hóa)
+P – Positioning (Định vị)
+```
+
+👉 STDP giúp anh:
+
+* Không nói “khách hàng chung chung”
+* Không định vị mơ hồ
+* Viết Strategy **rất rõ và có trọng tâm**
+
+---
+
+## 4.15. S – SEGMENTATION (PHÂN KHÚC)
+
+### Câu hỏi cần trả lời:
+
+> “Thị trường có thể chia thành những nhóm nào?”
+
+Trong bài thi **mỹ phẩm**, anh có thể phân khúc theo:
+
+* **Nhân khẩu học**: giới tính, độ tuổi
+* **Tâm lý**: nhu cầu làm đẹp, quan điểm sống
+* **Hành vi**: tần suất mua, mức chi tiêu
+* **Vấn đề gặp phải**: da nhạy cảm, da mụn, da lão hóa…
+
+📌 Không cần liệt kê hết, **2–3 tiêu chí là đủ**.
+
+### Ví dụ viết gọn:
+
+> Thị trường mỹ phẩm có thể phân khúc theo độ tuổi, nhu cầu chăm sóc da và mức độ quan tâm đến thành phần sản phẩm.
+
+---
+
+## 4.16. T – TARGETING (CHỌN MỤC TIÊU)
+
+### Câu hỏi cần trả lời:
+
+> “Trong các phân khúc đó, ta chọn nhóm nào?”
+
+Nguyên tắc:
+
+* **Không chọn tất cả**
+* Chọn nhóm **phù hợp với nguồn lực & objectives**
+
+### Ví dụ:
+
+> Thương hiệu tập trung vào nhóm nữ trẻ 18–25 tuổi, quan tâm đến chăm sóc da cơ bản và thường xuyên tiếp cận nội dung làm đẹp trên mạng xã hội.
+
+👉 Chỉ cần **1 nhóm chính** là đủ.
+
+---
+
+## 4.17. D – DIFFERENTIATION (KHÁC BIỆT HÓA)
+
+### Câu hỏi cần trả lời:
+
+> “Ta khác gì so với đối thủ trong mắt khách hàng?”
+
+Khác biệt có thể đến từ:
+
+* Thành phần
+* Giá
+* Trải nghiệm
+* Thông điệp
+* Phong cách thương hiệu
+
+📌 **Không cần đúng ngoài đời**, chỉ cần **logic và nhất quán**.
+
+### Ví dụ:
+
+> Thương hiệu khác biệt bằng việc tập trung vào thành phần thiên nhiên, an toàn cho da nhạy cảm với mức giá dễ tiếp cận.
+
+---
+
+## 4.18. P – POSITIONING (ĐỊNH VỊ)
+
+### Câu hỏi cần trả lời:
+
+> “Ta muốn khách hàng nghĩ gì về mình?”
+
+Positioning là **tóm tắt của Target + Differentiation**.
+
+### Công thức đơn giản:
+
+> *Brand A là thương hiệu dành cho [target], mang lại [lợi ích khác biệt] so với các thương hiệu khác.*
+
+### Ví dụ:
+
+> Thương hiệu được định vị là mỹ phẩm thiên nhiên, an toàn và dễ tiếp cận dành cho nữ trẻ mới bắt đầu chăm sóc da.
+
+👉 Viết **1 câu là đủ điểm**.
+
+---
+
+## 4.19. NHỮNG LỖI RẤT HAY BỊ TRỪ ĐIỂM
+
+❌ Target = “mọi khách hàng”
+
+❌ Differentiation = “chất lượng tốt” (quá chung)
+
+❌ Positioning dài dòng như quảng cáo
+
+---
+
+## 4.20. TÓM TẮT STDP ĐỂ ANH NHỚ NHANH
+
+* **S**: Có những nhóm nào?
+* **T**: Ta chọn nhóm nào?
+* **D**: Ta khác gì?
+* **P**: Ta muốn được nhớ là ai?
+
+Nếu anh trả lời được 4 câu này → **Strategy đã ổn**.
+
+---
+
+# UNIT 4 (tiếp) — **S: STRATEGY (PHẦN 2 – VALUE PROPOSITION)**
+
+> Mục tiêu của phần này:
+> **Trả lời dứt khoát: “Vì sao khách hàng nên chọn mình, chứ không chọn người khác?”**
+
+---
+
+## 4.21. VALUE PROPOSITION LÀ GÌ? (định nghĩa chuẩn thi)
+
+**Value Proposition** = giá trị cốt lõi mà thương hiệu **cam kết mang lại cho khách hàng mục tiêu**,
+dựa trên **pain point thực sự**, và **khác biệt so với đối thủ**.
+
+👉 Không phải slogan.
+
+👉 Không phải thông điệp quảng cáo.
+
+👉 Là **lời hứa giá trị**.
+
+---
+
+## 4.22. TƯ DUY GỐC (rất quan trọng)
+
+Value Proposition luôn trả lời **3 câu hỏi cùng lúc**:
+
+1. **Khách hàng gặp vấn đề gì?** (Pain)
+2. **Thương hiệu giải quyết bằng cách nào?** (Solution)
+3. **Vì sao giải pháp này đáng chọn?** (Benefit/Differentiation)
+
+Nếu thiếu 1 trong 3 → value proposition **yếu**.
+
+---
+
+## 4.23. ÁP VÀO CASE CỦA ANH (GEN Z VĂN PHÒNG)
+
+Ta nhắc lại nhanh **Target**:
+
+> Gen Z văn phòng, bận rộn, muốn chăm sóc da nhưng thiếu thời gian.
+
+### (1) Pain point (nỗi đau chính)
+
+* Không có nhiều thời gian cho routine phức tạp
+* Dễ bỏ dở việc chăm sóc da
+* Muốn hiệu quả nhưng ngại tốn công, tốn tiền
+
+👉 Chỉ cần **1–2 pain lớn**, không cần nhiều.
+
+---
+
+### (2) Solution (giải pháp thương hiệu)
+
+* Sản phẩm chăm sóc da **đơn giản – hiệu quả**
+* Routine ngắn gọn
+* Thành phần rõ ràng, đáng tin cậy
+
+---
+
+### (3) Benefit / Value (giá trị mang lại)
+
+* Tiết kiệm thời gian
+* Dễ duy trì thói quen
+* Hiệu quả phù hợp với nhịp sống bận rộn
+* Giá cả hợp lý với Gen Z
+
+---
+
+## 4.24. CÔNG THỨC VIẾT VALUE PROPOSITION (RẤT DỄ DÙNG)
+
+Anh chỉ cần dùng mẫu này:
+
+> **Dành cho [target], thương hiệu mang đến [giải pháp chính], giúp họ [lợi ích cốt lõi], mà không phải [nỗi đau/đánh đổi].**
+
+---
+
+## 4.25. VALUE PROPOSITION – PHIÊN BẢN ĐI THI (ĐÃ TINH GỌN)
+
+Dựa trên toàn bộ chiến lược của anh, viết như sau là **rất đẹp**:
+
+> Dành cho Gen Z làm việc văn phòng bận rộn, thương hiệu mang đến giải pháp chăm sóc da hiệu quả và đơn giản, giúp họ duy trì làn da khỏe mạnh mà không tốn nhiều thời gian hay chi phí.
+
+👉 1–2 dòng, **ăn điểm**, không cần thêm.
+
+---
+
+## 4.26. NHỮNG LỖI RẤT HAY BỊ TRỪ ĐIỂM
+
+❌ Viết Value Proposition giống slogan quảng cáo
+
+❌ Không nhắc đến pain point
+
+❌ Chỉ nói “chất lượng tốt”, “giá hợp lý” (quá chung)
+
+---
+
+## 4.27. LIÊN KẾT LOGIC (ANH CẦN NHỚ)
+
+* **Target** → cho ai
+* **Differentiation** → khác ở đâu
+* **Value Proposition** → mang lại giá trị gì
+* **Key Message** → nói ra sao
+* **Content** → triển khai bằng gì
+
+Nếu Value Proposition rõ → các phần sau **rất dễ viết**.
 
 ---
